@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,3 +15,4 @@ You may also see any lint errors in the console.
 ### `Details`
 
 This repository is being used to track the progress of the course currently undergone at the Slack Javascript Land Workspace.
+7bc829db
