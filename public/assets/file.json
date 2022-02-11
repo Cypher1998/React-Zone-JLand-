@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "john",
+    "price": 200,
+    "title": "the dawn is here",
+    "image": { "url": "assets/ff.jpg" }
+  },
+  {
+    "id": 2,
+    "name": "peter",
+    "price": 500,
+    "title": "the sky is your beginning",
+    "image": { "url": "assets/gg.jpg" }
+  },
+  {
+    "id": 3,
+    "name": "susan",
+    "price": 350,
+    "title": "the day is almost ending",
+    "image": { "url": "assets/hh.jpg" }
+  },
+  { "id": 4, "name": "anna", "price": 100 },
+  { "id": 5 }
+]
